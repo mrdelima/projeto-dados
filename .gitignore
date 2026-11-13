@@ -1,10 +1,2 @@
-# Executáveis
 programa
-*.o
-*.out
-
-# Arquivos do sistema
-.DS_Store
-
-# Resultados gerados automaticamente
-tests/saida/
+programa.dSYM/
